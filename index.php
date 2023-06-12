@@ -32,7 +32,7 @@
   </head>
   <body>
   <section>
-    <h1 style="color:#fff;font-size:40px">Foxapp</h1>
+    <h1 style="color:#fff;font-size:40px">Foxappz</h1>
   </section>
   
  
